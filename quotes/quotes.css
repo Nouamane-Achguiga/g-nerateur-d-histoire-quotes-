@@ -1,0 +1,13 @@
+div{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+button{
+font-size: 200%;
+padding: 15px;
+}
+p{
+    margin-left: -50px;
+    font-size: 300%;
+}
